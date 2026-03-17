@@ -290,6 +290,7 @@ Feel free to fork, modify, and enhance this project! Some ideas:
 - Create grocery list from selected recipes
 - Add recipe categories/tags
 - Implement dietary filters (vegan, gluten-free, etc.)
+- Note the time
 
 ---
 
